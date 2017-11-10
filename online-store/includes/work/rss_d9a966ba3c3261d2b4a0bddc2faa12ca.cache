@@ -1,0 +1,54 @@
+a:12:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:15:"osCommerce Apps";s:4:"link";s:26:"https://www.oscommerce.com";s:11:"description";s:35:"osCommerce Apps Marketplace listing";s:8:"language";s:2:"en";s:9:"copyright";s:29:"Copyright (c) 2017 osCommerce";s:14:"managingEditor";s:19:"hpdl@oscommerce.com";s:11:"image_title";s:10:"osCommerce";s:9:"image_url";s:69:"https://www.oscommerce.com/public/sites/Website/images/oscommerce.png";s:10:"image_link";s:26:"https://www.oscommerce.com";s:5:"items";a:5:{i:0;a:4:{s:5:"title";s:13:"Slim Checkout";s:4:"link";s:33:"https://apps.oscommerce.com/pgaC2";s:11:"description";s:849:"Slim Checkout<br />
+<br />
+Version 1.0 - 2017-10-31<br />
+<br />
+Many Thanks for testing, comments, suggestions and help to: <br />
+@burt, @wHiTeHaT, @ArtcoInc, @Omar_one, @frankl, @Tsimi, @discxpress, @cupidare, @BrockleyJohn<br />
+<br />
+Compatible with OsCommerce 2.3.4 BS Community Version<br />
+PHP 5.4-7.1<br />
+<br />
+What it does:<br />
+<br />
+Allows to hide page areas on checkout pages:<br />
+ - optional hide on checkout pages: login.php, checkout_shipping.php, checkout_payment.phpheckout_confirmation.php and checkout_success.<br />
+ - select on which pages to hide by checkbox list the following areas: navbar, header area, boxes, footer and footer suffix<br />
+ - optional customized list of header modules to keep showing if header area is hidden. Default: store logo module, will keep showing always, even the header area is hidden.";s:7:"pubDate";s:31:"Tue, 31 Oct 2017 19:15:33 +0100";}i:1;a:4:{s:5:"title";s:26:"Session Expiration Control";s:4:"link";s:33:"https://apps.oscommerce.com/2MAEV";s:11:"description";s:691:"This allows the store owner to manage their admin panel's session expiration, as well as the customer's session expiration via Admin_Configuration_Sessions.<br />
+<br />
+If you have a problem where the customer session will not expire and/or the admin panel session expires every few days, then this addon will fix it.<br />
+<br />
+This contribution's application-level session expiration directives will override those of the server-side.<br />
+<br />
+I made this for BootStrap Edge, but it will likely work with other versions of osC. I only tested it on BS Edge. <br />
+<br />
+1 database change, and 2 easy file changes. <br />
+<br />
+This is the full package.<br />
+(includes screenshot)";s:7:"pubDate";s:31:"Sat, 28 Oct 2017 09:50:07 +0200";}i:2;a:4:{s:5:"title";s:32:"Open Source E-Commerce Solutions";s:4:"link";s:33:"https://apps.oscommerce.com/XG9TF";s:11:"description";s:132:"The Open Source E-Commerce Solution from EMoney allows you to embed a payment application to allow checkout in a secure environment.";s:7:"pubDate";s:31:"Wed, 25 Oct 2017 22:40:08 +0200";}i:3;a:4:{s:5:"title";s:28:"Twispay Credit Card Payments";s:4:"link";s:33:"https://apps.oscommerce.com/elkhN";s:11:"description";s:1236:"Twispay is a European certified acquiring bank with a sleek payment gateway optimised for online shops. We process payments from worldwide customers using Mastercard or Visa debit and credit cards. Increase your purchases by using our conversion rate optimised checkout flow and manage your transactions with our dashboard created specifically for online merchants like you. Twispay Credit Card Payments is the official payment module built for OsCommerce.<br />
+<br />
+Our payment extension for OsCommerce allows for a quick and easy integration to Twispay&rsquo;s Payment Gateway for accepting online credit card payments through a secure environment and a fully customisable checkout process. Give your customers the shopping experience they expect, and boost your online sales with our simple and elegant payment plugin.<br />
+<br />
+For more details concerning our pricing in your area, please check out our pricing page. To use our payment module and start processing you will need a Twispay merchant account. For any assistance during the on-boarding process, our sales and compliance team are happy to assist you with any enquiries you may have.<br />
+For the information above, please refer to our main website, www.twispay.com";s:7:"pubDate";s:31:"Wed, 25 Oct 2017 12:50:33 +0200";}i:4;a:4:{s:5:"title";s:23:"Quickpay Payment Module";s:4:"link";s:33:"https://apps.oscommerce.com/PFXjo";s:11:"description";s:1086:"Quickpay payment module for osCommerce<br />
+Modular package.<br />
+<br />
+Version 1.0.1 - October 2017<br />
+<br />
+Compatibility:<br />
+Quickpay API v10 with<br />
+- osCommerce 2.3.4 and 2.3.4.1<br />
+- osCommerce 2.3.4 BS (Community Responsive project, Gold and Edge versions)<br />
+<br />
+Can be installed without code changes on a store prepared for the Paypal App<br />
+<br />
+Built from an existing payment module by BLKOM https://github.com/loevendahl/quickpay10-oscommerce<br />
+Additional Danish translations, testing and improvements by Bo Herrmannsen @boelle<br />
+Version 1.0 sponsored by Quickpay.net<br />
+<br />
+Support thread on osCommerce forums:<br />
+https://forums.oscommerce.com/topic/412146-quickpay-payment-module-for-23/<br />
+<br />
+Changelog<br />
+1.0.1 Two files updated for minor compatibility issues. Symptoms:<br />
+ on databases set up by a previous addon version, all orders were treated as if quickpay leading to Warning: array_reverse expects parameter 1 to be an array<br />
+	 link in confirmation email sent customer to FILENAME_ACCOUNT_HISTORY_INFO";s:7:"pubDate";s:31:"Tue, 31 Oct 2017 14:40:08 +0100";}}s:11:"items_count";i:5;}
